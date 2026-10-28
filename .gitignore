@@ -1,0 +1,9 @@
+venv/
+results/
+demo_samples/
+*.zip
+*.bak
+app_old.py
+style_backup.css
+requirements_backup.txt
+__pycache__/
